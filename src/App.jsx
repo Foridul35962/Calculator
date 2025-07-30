@@ -1,8 +1,8 @@
-
+import Calculator from "./calculator";
 const App = () => {
   return (
-    <div>
-      <h1 className="bg-amber-400">hello</h1>
+    <div className="h-dvh flex items-center justify-center">
+      <Calculator></Calculator>
     </div>
   )
 }
