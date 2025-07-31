@@ -3,7 +3,7 @@ const items = [
   { name: 'C', value: 'C' },
   { name: '%', value: '%' },
   { name: 'delete', value: 'delete', icon: 'fa-solid fa-delete-left' },
-  { name: '^', value: '^' },
+  { name: '^', value: '**' },
   { name: '(', value: '(' },
   { name: ')', value: ')' },
   { name: '/', value: '/', icon: 'fa-solid fa-divide' },
