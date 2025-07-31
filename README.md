@@ -2,9 +2,9 @@
 
 A simple and responsive calculator for basic arithmetic operations. Built for quick use in the browser.
 
-## 🔗 Live Demo
+🔗 **Live Site:** [https://calculator-forid.netlify.app/](https://calculator-forid.netlify.app/)
 
-[Click here to try it out](https://calculator-forid.netlify.app/)
+---
 
 ## 🚀 Features
 
@@ -12,6 +12,8 @@ A simple and responsive calculator for basic arithmetic operations. Built for qu
 - Clean and responsive UI
 - Keyboard input support
 - Real-time calculation using `eval()` (with error handling)
+
+---
 
 ## 🛠️ Technologies Used
 
