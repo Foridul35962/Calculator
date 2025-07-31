@@ -1,11 +1,8 @@
-import { useState } from "react";
-
-const Display=()=>{
-    let [input,setInput]=useState("");
+const Display=({input,setInput})=>{
     const result=(event)=>{
         if(event.key==='Enter'){
             try{
-                let equal=eval(event.target.value);
+                let equal=eval(input);
                 setInput(equal);
             }
             catch{
