@@ -20,7 +20,7 @@ const items = [
   { name: '3', value: '3' },
   { name: '+', value: '+', icon: 'fa-solid fa-plus' },
   { name: '0', value: '0' },
-  { name: '00', value: '0' },
+  { name: '00', value: '00' },
   { name: '.', value: '.' },
   { name: '=', value: '=' },
 ];
