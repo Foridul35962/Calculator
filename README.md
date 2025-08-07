@@ -8,10 +8,10 @@ A simple and responsive calculator for basic arithmetic operations. Built for qu
 
 ## 🚀 Features
 
-- Basic arithmetic operations (+, −, ×, ÷)
-- Clean and responsive UI
-- Keyboard input support
-- Real-time calculation using `eval()` (with error handling)
+- ✅ Basic arithmetic operations (+, −, ×, ÷)
+- ✅ Clean and responsive UI
+- ✅ Keyboard input support
+- ✅ Real-time calculation using `eval()` (with error handling)
 
 ---
 
